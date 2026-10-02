@@ -1,16 +1,38 @@
-## Hi there 👋
+# ¡Hola! Soy Agustín Da Gama 👋
 
-<!--
-**Agustin-Da-Gama/Agustin-Da-Gama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Analista de Sistemas de Computación** en el Instituto Privado de Estudios Superiores IPET 1308, enfocado en el desarrollo de software, estructuración de bases de datos y análisis de sistemas.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+* **Backend:** Python, Flask
+* **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+* **Bases de Datos:** SQLite, SQL
+* **Control de Versiones & Herramientas:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Proyecto Destacado
+
+**[Sistema de Gestión - Forrajería Los Hermanos](https://github.com/Agustin-Da-Gama/Sistema_Forrajeria)**
+*Sistema web completo desarrollado para la administración integral de un comercio minorista y mayorista.*
+
+* **Gestión de Inventario y Clientes:** Alta, baja y modificación (CRUD) de productos, categorías y clientes con listas de precios diferenciadas.
+* **Módulo de Ventas:** Punto de venta ágil con actualización de stock automática, cálculo de subtotales y generación de **Tickets imprimibles**.
+* **Seguridad:** Autenticación de usuarios administradores con contraseñas encriptadas (Hashes).
+* **Reportes:** Dashboard con histórico de recaudación (diaria, semanal, mensual, anual) y conservación de precios históricos.
+* **Interfaz de Usuario:** Diseño responsivo, moderno y búsquedas en tiempo real (Live Search) sin recargar la página.
+
+---
+
+### 📈 Mis Estadísticas en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Agustin-Da-Gama&show_icons=true&theme=radium" alt="Estadísticas de Agustín" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Da-Gama&layout=compact&theme=radium" alt="Lenguajes más usados" width="48%" />
+</div>
+
+---
+
+### 📫 Cómo contactarme
+* 📧 **Email:** agusdagama777@gmail.com
+
+⭐️ *¡Gracias por visitar mi perfil!*
