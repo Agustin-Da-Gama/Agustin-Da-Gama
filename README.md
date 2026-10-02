@@ -1,8 +1,8 @@
-# ¡Hola! Soy Agustín Da Gama 👋
+# ¡Hola! Soy Agustín Da Gama 
 
 Soy estudiante de **Analista de Sistemas de Computación** en el Instituto Privado de Estudios Superiores IPET 1308, enfocado en el desarrollo de software, estructuración de bases de datos y análisis de sistemas.
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 * **Backend:** Python, Flask
 * **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
 * **Bases de Datos:** SQLite, SQL
@@ -10,7 +10,7 @@ Soy estudiante de **Analista de Sistemas de Computación** en el Instituto Priva
 
 ---
 
-### 🚀 Proyecto Destacado
+###  Proyecto Destacado
 
 **[Sistema de Gestión - Forrajería Los Hermanos](https://github.com/Agustin-Da-Gama/Sistema_Forrajeria)**
 *Sistema web completo desarrollado para la administración integral de un comercio minorista y mayorista.*
@@ -23,7 +23,7 @@ Soy estudiante de **Analista de Sistemas de Computación** en el Instituto Priva
 
 
 
-### 📫 Cómo contactarme
+###  Cómo contactarme
 * 📧 **Email:** agusdagama777@gmail.com
 
-⭐️ *¡Gracias por visitar mi perfil!*
+ *¡Gracias por visitar mi perfil!*
