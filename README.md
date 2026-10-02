@@ -24,6 +24,6 @@ Soy estudiante de **Analista de Sistemas de Computación** en el Instituto Priva
 
 
 ###  Cómo contactarme
-* 📧 **Email:** agusdagama777@gmail.com
+*  **Email:** agusdagama777@gmail.com
 
  *¡Gracias por visitar mi perfil!*
