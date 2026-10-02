@@ -21,16 +21,7 @@ Soy estudiante de **Analista de Sistemas de Computación** en el Instituto Priva
 * **Reportes:** Dashboard con histórico de recaudación (diaria, semanal, mensual, anual) y conservación de precios históricos.
 * **Interfaz de Usuario:** Diseño responsivo, moderno y búsquedas en tiempo real (Live Search) sin recargar la página.
 
----
 
-### 📈 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agustin-Da-Gama&show_icons=true&theme=radium" alt="Estadísticas de Agustín" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Da-Gama&layout=compact&theme=radium" alt="Lenguajes más usados" width="48%" />
-</div>
-
----
 
 ### 📫 Cómo contactarme
 * 📧 **Email:** agusdagama777@gmail.com
