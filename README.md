@@ -4,7 +4,7 @@ Soy estudiante de **Analista de Sistemas de Computación** en el Instituto Priva
 
 ###  Tecnologías y Herramientas
 * **Backend:** Python, Flask
-* **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+* **Frontend:** HTML5, CSS3, JavaScript 
 * **Bases de Datos:** SQLite, SQL
 * **Control de Versiones & Herramientas:** Git, GitHub, VS Code
 
